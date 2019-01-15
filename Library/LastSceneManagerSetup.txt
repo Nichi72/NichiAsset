@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Blaze/Test.unity
+- path: Assets/Dot/Scene/Dot.unity
   isLoaded: 1
   isActive: 1
