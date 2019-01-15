@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Dot/Scene/Dot.unity
+=======
+- path: Assets/Scenes/NewSenes.unity
+>>>>>>> 6416bcdb83c4d7c6f5d1b3a7b64e94e82a057483
   isLoaded: 1
   isActive: 1
